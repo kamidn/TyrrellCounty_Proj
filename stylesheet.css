@@ -74,6 +74,7 @@ nav {
 
 footer {
 	color: var(--clr-primary-900);
+	background: var(--clr-neutral-100);
 	font-size: 0.8rem;
 	padding: 0.1rem;
 	margin: 0;
@@ -138,17 +139,14 @@ footer {
 
 h1 {
 	font-size: 1.7rem;
-	text-align: center;
 }
 
 h2 {
 	font-size: 1.5rem;
-	text-align: center;
 }
 
 h3{
 	font-size: 1.3rem;
-	text-align: center;
 }
 
 .main-content .content img {
@@ -161,6 +159,6 @@ h3{
 	flex-direction: row;
 }
 
-#events {
+.quicklinks {
 	font-size: 0.9rem;
 }
